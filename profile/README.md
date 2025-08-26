@@ -2,8 +2,8 @@
 
 ## Meeting Information
 
-Class Sessions: MWF 9:00am - 9:50am, Alden 109
-Lab Sessions: W 2:30pm - 4pm, Alden 207
+- Class Sessions: MWF 9:00am - 9:50am, Alden 109
+- Lab Sessions: W 2:30pm - 4pm, Alden 207
 
 ## Course Description
 
