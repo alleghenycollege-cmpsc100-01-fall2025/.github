@@ -9,4 +9,4 @@
 
 | Week | Dates | Topics | Assignments/Activities | Outcomes & Distribution |
 |------|-------|--------|------------------------|-------------------------|
-| **7** | Oct 6–8 | [Lists](https://computational-expression.github.io/course_information/week06/lists.html). <br>**Oct 9–12: Fall Break (no class)** | Lab 5 | LO1, LO3; SP (structured data, error correction). |
+| **7** | Oct 6–8 | [Lists](https://computational-expression.github.io/course_information/week06/lists.html). <br>**Oct 9–12: Fall Break (no class)** | [Lab 5](https://classroom.github.com/a/oLRR5Oht) (Due 2:30pm Oct. 15) | LO1, LO3; SP (structured data, error correction). |
