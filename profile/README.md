@@ -9,4 +9,4 @@
 
 | Week | Dates | Topics | Assignments/Activities | Outcomes & Distribution |
 |------|-------|--------|------------------------|-------------------------|
-| **7** | Oct 6–8 | [Lists](https://computational-expression.github.io/course_information/week06/lists.html). <br>**Oct 9–12: Fall Break (no class)** | [Lab 5](https://classroom.github.com/a/oLRR5Oht) (Due 2:30pm Oct. 15) | LO1, LO3; SP (structured data, error correction). |
+| **8** | Oct 13–17 | **Midterm Week**: [Practice Exam](https://github.com/alleghenycollege-cmpsc100-01-fall2025/course_information/blob/main/materials/practice_midterm.md), In-class review and **Midterm Exam on Oct. 17 at 9:00am**.  | Midterm Review Session, Midterm Exam | LO3; SP (critical analysis of algorithms). |
