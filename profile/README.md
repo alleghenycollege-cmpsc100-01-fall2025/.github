@@ -9,4 +9,4 @@
 
 | Week | Dates | Topics | Assignments/Activities | Outcomes & Distribution |
 |------|-------|--------|------------------------|-------------------------|
-| **9** | Oct 20–24 |  **Functions & Modular Design**: [Functions, Parameters, return values, scope.](https://computational-expression.github.io/course_information/week09/functions.html) | <li>[Activity 6](https://classroom.github.com/a/DzcuIuPn) (DUE: 9am Oct. 24)</li> <li>Lab 6</li> | LO2, LO3; SP (systematic problem solving). |
+| **9** | Oct 20–24 |  **Functions & Modular Design**: [Functions, Parameters, return values, scope.](https://computational-expression.github.io/course_information/week09/functions.html) | <li>[Activity 6: Refactoring](https://classroom.github.com/a/DzcuIuPn) (DUE: 9am Oct. 24)</li> <li>Lab 6: Memory Game</li> | LO2, LO3; SP (systematic problem solving). |
