@@ -9,4 +9,4 @@
 
 | Week | Dates | Topics | Assignments/Activities | Outcomes & Distribution |
 |------|-------|--------|------------------------|-------------------------|
-| **11** | Nov 3–7 | <li>**Data Structures II**: [Dictionaries](https://computational-expression.github.io/course_information/week10/dictionaries.html).</li> <li>**Object-Oriented Programming I**: Classes, objects, attributes. Abstraction. </li> | <li> [Activity 8: Git Flow](https://classroom.github.com/a/lhp5eDNy) (DUE: 9:30am Nov. 5)</li> <li>Lab 8</li> | LO1, LO5; ME (creating expressive computational artifacts). |
+| **11** | Nov 3–7 | <li>**Data Structures II**: [Dictionaries](https://computational-expression.github.io/course_information/week10/dictionaries.html).</li> <li>[Git and VSCode Tools](https://computational-expression.github.io/course_information/week11/git_branching.html)</li> <li>**Object-Oriented Programming I**: Classes, objects, attributes. Abstraction. </li> | <li> [Activity 8: Git Flow](https://classroom.github.com/a/lhp5eDNy) (DUE: 9:30am Nov. 5)</li> <li>Lab 8</li> | LO1, LO5; ME (creating expressive computational artifacts). |
