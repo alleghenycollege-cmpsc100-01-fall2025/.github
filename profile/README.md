@@ -9,4 +9,4 @@
 
 | Week | Dates | Topics | Assignments/Activities | Outcomes & Distribution |
 |------|-------|--------|------------------------|-------------------------|
-| **13** | Nov 17–21 | <li>**Final Projects**</li> <li>**Object-Oriented Programming III**: [Modules](https://computational-expression.github.io/course_information/week11/oop_intro.html).</li> | <li>[Final Project](https://classroom.github.com/a/SoLCkmLr)</li> <li>[Activity 12](https://classroom.github.com/a/8OHDynAu)</li> | LO4, LO5; ME (expression through design), SP (societal role of computation). |
+| **14** | Nov 24–25 | **Final Project**. <br>**Nov 26–30: Thanksgiving Break (no class)** | Activity 13: Commit to project repository feature branch (DUE 11:59pm Nov. 25)| LO1–5; ME (presentation & expression), SP (scientific reflection, inquiry). |
