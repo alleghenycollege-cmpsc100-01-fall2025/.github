@@ -9,4 +9,4 @@
 
 | Week | Dates | Topics | Assignments/Activities | Outcomes & Distribution |
 |------|-------|--------|------------------------|-------------------------|
-| **14** | Nov 24–25 | **Final Project**. <br>**Nov 26–30: Thanksgiving Break (no class)** | Activity 13: Commit to project repository feature branch (DUE 11:59pm Nov. 25)| LO1–5; ME (presentation & expression), SP (scientific reflection, inquiry). |
+| **15** | Dec 1–5 | **Final Project**. Ethical & cultural impacts of computing.  | [Activity 14: Code Review Prep](https://classroom.github.com/a/kSkTYv82) (DUE: 9am Dec. 3). Final Project Work | LO1–5; ME (presentation & expression), SP (scientific reflection, inquiry). |
